@@ -1,0 +1,9 @@
+.git
+.github
+.venv
+__pycache__
+*.pyc
+.ipynb_checkpoints
+notebooks/
+frontend/
+*.csv
